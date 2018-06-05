@@ -33,7 +33,7 @@ public class Examen {
         switch(opcion){
            case 1:
     contador ++;
-    if(contador<2){
+    if(contador<11){
          
         for(int i=1 ; i<libros.length; i++){
            
